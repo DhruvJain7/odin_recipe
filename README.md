@@ -1,2 +1,3 @@
 # odin_recipe
-first 
+My submission in foundation course
+
